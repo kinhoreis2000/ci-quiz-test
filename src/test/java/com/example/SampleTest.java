@@ -7,6 +7,6 @@ public class SampleTest {
     @Test
     public void verifyMath() {
         int result = 2 + 2;
-        Assert.assertEquals(result, 4, "Math check");
+        Assert.assertEquals(result, 4, "Math check assert");
     }
 }
